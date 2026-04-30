@@ -9,7 +9,7 @@ I am futur PhD student in marine ecology and physiology science in PutnamLAb. My
 
 ### More Information
 
-https://pierrickharnay.github.io/PierrickHarnay_Notebook/
+[https://pierrickharnay.github.io/PierrickHarnay_Notebook/](https://github.com/cori933/Corals-Lab-notebook.git)
 
 ### Contact me
 
