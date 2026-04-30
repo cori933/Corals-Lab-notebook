@@ -17,9 +17,9 @@ CoralRozen3@gmail.com
 
 
 ## <center>Coral Rozen</center>
-<center>Department of Biological Sciences</center>
-<center>University of Rhode Island</center>
-<center>120 Flagg Road, Kingston RI 02881</center>
+<center>Department of Marin Biological </center>
+<center>University of Haifa</center>
+
 
 
 ### EDUCATION
