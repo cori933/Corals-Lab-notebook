@@ -23,7 +23,7 @@ The objective of this workflow is to design specific primers for the identificat
 **Observation:**
 We identified conserved regions across all species (ideal for primer binding) and variable regions (SNPs) that distinguish *S. pistillata* from the other genera.
 
-> **[Insert your alignment screenshot here: images/alignment_1.jpg]**
+![Alignment Screenshot]({{ site.baseurl }}/images/alignment_1.jpg)
 
 ## 3. Primer Design
 Primers were designed using **NCBI Primer-BLAST** based on the AB441231.1 reference sequence.
@@ -48,7 +48,7 @@ Primers were designed using **NCBI Primer-BLAST** based on the AB441231.1 refere
 **Interpretation:**
 The phylogenetic tree confirms that *Stylophora pistillata* clusters with *Seriatopora sp.* with high bootstrap support, reflecting their shared family (Pocilloporidae). The *Tubastraea* species form a distinct sister clade, as expected.
 
-> **[Insert your tree screenshot here: images/tree_final.png.jpg]**
+![Phylogenetic Tree]({{ site.baseurl }}/images/tree_final.png.jpg)
 
 ## References
 * [NCBI GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
