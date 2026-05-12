@@ -23,10 +23,12 @@ The objective of this workflow is to design specific primers for the identificat
 **Observation:**
 We identified conserved regions across all species (ideal for primer binding) and variable regions (SNPs) that distinguish *S. pistillata* from the other genera.
 
-![Alignment](../images/alignment_dots.jpg)
+
 
 ## 3. Primer Design
 Primers were designed using **NCBI Primer-BLAST** based on the AB441231.1 reference sequence.
+
+![Alignment](../images/alignment_dots.jpg)
 
 | Feature | Forward Primer (5' -> 3') | Reverse Primer (5' -> 3') |
 | :--- | :--- | :--- |
@@ -36,7 +38,7 @@ Primers were designed using **NCBI Primer-BLAST** based on the AB441231.1 refere
 | **GC Content** | 55.0% | 55.0% |
 | **Product Size** | **156 bp** | |
 
-**Verification:** Primer-BLAST results confirmed high specificity for *Stylophora pistillata* with no significant off-target binding in the selected database.
+**Verification:** Primer-BLAST results confirmed high specificity for *Stylophora pistillata* (Amplicon size: 156 bp, Specific to Stylophora COX1) with no significant off-target binding in the selected database.
 
 ## 4. Phylogenetic Tree Construction
 **Parameters:**
