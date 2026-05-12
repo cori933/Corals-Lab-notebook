@@ -15,11 +15,11 @@ To ensure a stable start for the primary cultures and to prevent microbial overg
 
 * **Cleaning:** A specialized antibiotic cocktail is added to the FSW to neutralize the initial bacterial load before dissociation.
 
-* **Incubation:** Following the cleaning process, samples are distributed into two groups: a photosynthetic 12:12 light/dark cycle and a dark incubator maintained at a constant 25°C.
+* **Incubation:** Following the cleaning process, samples are distributed into two groups: a photosynthetic 12:12 light/dark cycle and a dark incubator.
 
 ### 4. Methodological Workflow (Visual)
 
-![Methodological Workflow](images/methodological_workflow.jpg)  
+![Methodological Workflow](../images/methodological_workflow.jpg)  
  
 
 ### 5. Experimental Monitoring Matrix (6x6 Table)
