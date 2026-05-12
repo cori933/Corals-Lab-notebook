@@ -4,103 +4,93 @@ title: About
 permalink: /about/
 ---
 
-I am futur PhD student in marine ecology and physiology science in PutnamLAb. My project will be based on Genetic, functional and reproductive diversity of Pocillopora in the lagoon of Mo’orea. 
- 
+<center>
 
-### More Information
-https://github.com/cori933
+# Coral Rozen
+### M.Sc. Researcher in Marine Biology
+**IORL (Israel Oceanographic and Limnological Research) | University of Haifa**
 
-### Contact me
-
-CoralRozen3@gmail.com
+</center>
 
 
-## <center>Coral Rozen</center>
-<center>Department of Marin Biological </center>
-<center>University of Haifa</center>
 
+I am an M.Sc. student in Marine Biology at the University of Haifa, conducting my primary research at the IORL (Israel Oceanographic and Limnological Research). My research is carried out in the laboratory of Prof. Buki Rinkevich, a world-renowned expert in marine biotechnology, coral cell biology, and immunology with hundreds of published scientific papers. 
 
+My work focuses on the cellular biology of scleractinian corals, specifically establishing primary tissue cultures and investigating the molecular mechanisms of cellular regeneration in *Stylophora pistillata*. I combine a deep passion for marine science with a rigorous clinical and laboratory background, bringing precision and high-level analytical skills to ecological and biological research.
+
+### 📬 Contact & Connect
+* **Email:** [CoralRozen3@gmail.com](mailto:CoralRozen3@gmail.com)
+* **GitHub:** [github.com/cori933](https://github.com/cori933)
+
+---
 
 ### EDUCATION
-2021-2022 | **Université Paris Sorbonne** | **École Pratique des Hautes Études (EPHE)**   
-	- Master degree 2  
-		- Biodiversity and Environment, Integrative Master of 		  Global Health and Ecology with honours   
-		- Course Locations: Sorbonne (Paris), CNRS (Montpellier), and CRIOBE
-		  (Perpignan France and Mo’orea French Polynesia)  
-		  
-2019-2020 | **Université Paris Sorbonne** | **EPHE**   
-	- Master degree 1   
-		- Biodiversity and Environment, Integrative Master of Global Health 		  and Ecology with honours   
-		- Course Locations: Sorbonne (Paris), CNRS (Montpellier, Dinard), 		  and CRIOBE (Perpignan)  
-		
-2018-2019 | **Université de Lorraine** | **Institut Universitaire Technologique Nancy- Brabois**  
-	- Professional Bachelor degree   
-		- Continental Aquaculture and Aquariology with honours   
-		
-2016-2017 | **Université de Montpellier** | **Continuing Education Department**   
-	- Technical Specialist Diploma (DU)  
-		- Aquaculture   
-		
-2013-2016 | **Lycée Jeanne Antide**   
-*2015-2016* Certificate of competence for the sale of non-domestic animals of captive wildlife (List E5-E7, TCVA)   
-*2013-2015* Professional baccalaureate Technician Sales Consultant in Pet Shop   
 
-### Professional Experience
-2022 | ***Universiy of Rhode Island - Rhode Island, USA***
-		- Supervisors - Dr. Hollie Putnam
-	- Effects of acute thermal stress and acute thermal priming on larvae of 	  the reef building coral *Pocillopora acuta*
-	- Genetic, functional and reproductive diversity of *Pocillopora sp.* in 	  the lagoon of Mo’orea.
+* **M.Sc. in Marine Biology (2026 – Present)** *University of Haifa & IORL*
+  * Specializing in coral tissue cultures, cell dissociation, and regeneration mechanisms under the supervision of Prof. Buki Rinkevich.
 
-2021-2022 | ***Oregon State University – Tetiaroa, French Polynesia***
-		- Research Assistant - *Impacts of rat eradication on coral reef health*
-		- Supervisors - Drs. Rebecca Vega Thurber Hannah Epstein
-	- Coral surveys via transect, coral and water sampling for bacterial 	  analysis, multivariate and generalized linear statistical modeling in 	  R
-	
-2020-2021 | ***Tetiaroa Society– Tetiaroa, French Polynesia***
-		- Ranger 
-	- Marine Protected Area and Ecostation security patrols, fish 	  identification, field technical support to researchers (Lancaster 	  University, Oregon University) including spearfishing, snorkeling, 	  photogrammetry, drone piloting, 3D modeling, and rat trapping, 	  localization and eradication
+* **Pre-Clinical Medical Studies (2022 – 2024)**     *University of Szeged, Hungary*
+  * Completed Year 1 & 2 medical curriculum with a strong academic focus on Immunology, Anatomy, and Human Physiology (Returned to Israel in 2025).
 
-2019-2020 | ***Centre de Recherches Insulaires et Observatoires de l’Environnement (CRIOBE) Mo’orea French Polynesia***   
-	*Effects of coral bleaching on coral reef cover and composition*   
-		- Supervisors – Dr. Laetitia Hédouin   
-	- Coral surveys via transect, coral photography, coral identification 	  and cover estimates, bleaching quantification, multivariate statistics 	  in R   
-	*Effects of ocean acidification on coral growth and metabolism*   
-		- Supervisors – Dr. Laetitia Hédouin   
-	- 3D scanning for volume, buoyant weight for bulk calcification, 	  Firesting Pyroscience oxygen optode respirometry   
-	*Effects of size of microfragmentation on coral growth*   
-		- Supervisors – Dr. Laetitia Hédouin   
-	- Coral fragment propagation of 10 species in the genera Acropora, 	  Montipora, Pocillopora, Porites, and Cyphastrea   
+* **B.Sc. in Biology (2017 – 2021)** *Oranim College (University of Haifa)*
+  * **4-Year Undergraduate Program**, Graduated with Honors.
+  * **Global Research (2020):** Selected for a specialized 2-week biological and ecological field study expedition to Ethiopia, focusing on diverse ecosystems and behavioral ecology.
 
-2017 | ***Recif at Home***   
-	Coral Farmer   
-	- Supervisors – Mr. Boris Rota   
-	- Coral fragmentation, coral husbandry, coral health, species selection   
+---
 
-### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
-- Harnay P, Huffmyer A, Fellous A, Hedouin L, Putnam HM (In Preparation) Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta*   
-- Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta* - Master 2 Degree Thesis Report   
-- Évaluation du blanchissement corallien sur les coraux des lagons de Polynésie Française lors de l’épisode 2019 – Master 1 Degree Thesis Report   
-- Effet de l’acidification des océans sur les coraux scléractiniaires – Bachelor Degree Thesis Report   
-	   
-### SCHOLARSHIPS AND AWARDS
-- Master degree 1 and 2 Awarded with Honors   
-- Scholarships for academic excellence are not given in France, but are income based   
-- Technical Specialist Diploma (DU) Awarded with Honors   
+### PROFESSIONAL & RESEARCH EXPERIENCE
 
-### TEACHING AND EDUCATION
-- Université de Lorraine 
-	- Coral Reef Informational Presentations to Bachelor students   
-	- Coral Reef Informational Presentations to Highschool students 
-- French/English Translation of educational materials in person and online   
+* **M.Sc. Researcher | IORL - Rinkevich Laboratory (2026 – Present)**
+  * Leading protocol development for enzymatic cell dissociation and primary tissue culture of *Stylophora pistillata*.
+  * Analyzing molecular pathways and cellular viability using advanced laboratory techniques.
 
-### CONFERENCE
-- Benthic Ecology Meeting - NH, Portsmouth, USA 
-	- Effects of thermal stress and thermal priming on larvae of the reef 	  building coral *Pocillopora acuta*
+* **Microbiologist | Bazelet Group (2025 – 2026)**
+  * Executed complex microbiological assays and quality control testing.
+  * Managed sterile laboratory protocols, strict documentation, and compliance with high-standard laboratory regulations.
 
-### SKILLS 
-- PADI Advanced Open Water SCUBA Diving
-- Permis Mer – French Boating License for Coastal Waters
-- Languages – French (Native), English (Fluent oral and written)
-- Software – R/Rstudio, QGIS, Microsoft Excel/Word/Powerpoint, Adobe Photoshop, GitHub
+* **Ecological Research Assistant | Oranim College (2019-2021)**
+  * Conducted field monitoring and behavioral data collection for academic ecological research.
+  * Assisted in analyzing animal behavior and documenting environmental variables.
 
+* **Veterinary Assistant | HaCarmel Veterinary Clinic (2017 – 2019)**
+  * Provided critical clinical and surgical assistance to senior veterinarians.
+  * Managed internal diagnostic laboratory operations, including blood work and sample preparation.
 
+---
+
+### MILITARY SERVICE
+
+* **Combat Medic | IDF Marine Special Forces - Shayetet 13
+(2012 – 2015)**
+  * **Reserve Service (2014 – 2015):** Recalled for active duty during *Operation Protective Edge*, providing critical medical support.
+  * **Regular Service (2012 – 2014):** Responsible for emergency medical response, clinical management, and triage in high-stress, dynamic environments within an elite naval commando unit.
+
+---
+
+### VOLUNTEERING, PUBLIC SERVICE & LEADERSHIP
+
+* **Emergency First Aid Provider | Magen David Adom - MDA (2008 – 2012)**
+  * Over 4 years of intensive medical volunteering during high school.
+  * Certified and authorized to serve on Mobile Intensive Care Units (MICU/NATAN) as well as regular ambulances.
+  * Completed advanced certifications including Night Shift authorization and specialized mental health emergency training via the ERAN program.
+
+* **Animal Welfare Volunteer | Tza’ar Ba’alei Chayim (2008 – 2010)**
+  * Dedicated two years to animal rescue, shelter maintenance, and rehabilitation of abandoned animals.
+
+* **Humanitarian Aid Volunteer | "Latet" Organization**
+  * Assisted in national logistical operations, food drives, and aid distribution for populations in need.
+
+* **Youth Counselor | Israeli Scouts (Tzofim)**
+  * Led educational programs, organized outdoor field activities, and mentored youth groups, developing strong leadership and group-management skills.
+
+* **Ecological Guide | Oranim College Ecological Park**
+  * Delivered educational lectures and guided tours regarding animal behavior, biology, and local ecology to diverse visiting groups.
+
+---
+
+### SKILLS & QUALIFICATIONS
+
+* **Laboratory Techniques:** Primary Cell Culture, qPCR, Molecular Cloning, Enzymatic Dissociation, Sterile Techniques, Microbiology Assays.
+* **Clinical & Emergency:** Advanced Emergency Medicine (MICU certified), Triage, Veterinary Clinical Support.
+* **Languages:** * **Hebrew:** Native.
+  * **English:** Fluent / Native-level (Formative childhood years spent residing in Canada, 2000-2002).
