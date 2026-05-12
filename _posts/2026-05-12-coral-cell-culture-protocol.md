@@ -5,13 +5,18 @@ This protocol describes the current efforts and procedures for attempting to est
 
 ### 2. Sample Sourcing and Origin
 The biological samples are maintained at the IORL (Israel Oceanographic and Limnological Research) facility. These specific fragments were originally collected from the Red Sea in Eilat, representing two distinct light regimes:
+
 * **Shallow water colonies:** Light-adapted fragments collected from the upper reef flats.
+
 * **Deep water colonies:** Dark-adapted fragments collected from the deeper part of the reef.
 
 ### 3. Methodology: Pre-treatment and Aseptic Procedure
 To ensure a stable start for the primary cultures and to prevent microbial overgrowth, fragments must go through a decontamination phase:
+
 * **Stabilization:** Fragments are soaked in sterile Filtered Seawater (FSW).
+
 * **Cleaning:** A specialized antibiotic cocktail is added to the FSW to neutralize the initial bacterial load before dissociation.
+
 * **Incubation:** Following the cleaning process, samples are distributed into two groups: a photosynthetic 12:12 light/dark cycle and a dark incubator.
 
 ### 4. Methodological Workflow (Visual)
@@ -19,7 +24,7 @@ To ensure a stable start for the primary cultures and to prevent microbial overg
 ![Methodological Workflow](../images/methodological_workflow.jpg)
 
 ### 5. Experimental Monitoring Matrix (6x6 Table)
-Cultures are monitored at specific intervals to track any signs of contamination and viability.
+Cultures are monitored at specific intervals to track any signs of cell status, contamination and viability.
 
 | Time Point | Source Depth | Light Regime | Cell Status | Contamination | Viability (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
