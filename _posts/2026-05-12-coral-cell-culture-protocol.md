@@ -12,7 +12,7 @@ The biological samples are maintained at the IORL (Israel Oceanographic and Limn
 To ensure a stable start for the primary cultures and to prevent microbial overgrowth, fragments must go through a decontamination phase:
 * **Stabilization:** Fragments are soaked in sterile Filtered Seawater (FSW).
 * **Cleaning:** A specialized antibiotic cocktail is added to the FSW to neutralize the initial bacterial load before dissociation.
-* **Incubation:** Following the cleaning process, samples are distributed into two groups: a photosynthetic 12:12 light/dark cycle and a dark incubator maintained at a constant 25°C.
+* **Incubation:** Following the cleaning process, samples are distributed into two groups: a photosynthetic 12:12 light/dark cycle and a dark incubator.
 
 ### 4. Methodological Workflow (Visual)
 
