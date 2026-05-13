@@ -20,27 +20,31 @@ I went to the NCBI GenBank website and searched for COX1 sequences in FASTA form
 * *Porites lutea*: AB441243.1
 
 ### 4. Sequence Alignment
-I aligned these five sequences to find the best spots for my primers and to see where the DNA differs between species.
+I aligned the five COX1 sequences to see where the DNA is the same and where it changes between the species.
 * **Software:** MEGA12 (using the ClustalW tool).
-* **What I found:** In the alignment, I saw very stable (conserved) regions where all species were identical. I also found variable spots (SNPs) that are unique to the *Stylophora* and *Seriatopora* group.
+* **Conserved Regions:** In the alignment image below, I can see long blocks of color that are identical across all 5 corals. These are the conserved regions. For example, the middle and right sections of this alignment are very stable.
+* **Variable Regions & SNPs:** I also found a few spots where the colors change in only one or two species. These Single Nucleotide Polymorphisms (SNPs) are important because they show the small genetic differences between my target *Stylophora* and the other corals.
+* **Indels:** I looked for any gaps or dashes (indels) in the alignment, but there are none. This is normal for the COX1 gene because it needs to stay intact to function properly.
 
 <br>
 
 **My Alignment Result:**
-
 <img src="../images/alignment_1.jpg" alt="Multiple Sequence Alignment" style="width: 100%; max-width: none; display: block;">
-
 <br>
 
-### 5. Primers Design
-I used the alignment to find the best flanking regions for my primers. I wanted to make sure they are specific to my target.
+### 5. Designing the Primers
+I used the alignment to find the best flanking regions for my primers, ensuring they are specific to *Stylophora pistillata*.
 * **Software:** NCBI Primer-BLAST.
-* **Forward Primer:** GATATGGCGTTTCCCCGACT
-* **Reverse Primer:** CGAACCTCCAGAGTGTGCTT
-* **Primer Details:**  Length: 20 bp each.
- * **Melting Temperature (Tm):** 59.89°C (Forward) | 59.97°C (Reverse)
+* **Forward Primer (5'->3'):** GATATGGCGTTTCCCCGACT
+  * **Position:** 221 - 240
+* **Reverse Primer (5'->3'):** CGAACCTCCAGAGTGTGCTT
+  * **Position:** 357 - 376
+* **Primer Details:**
+  * **Length:** 20 bp each.
+  * **Melting Temperature (Tm):** 59.89°C (F) | 59.97°C (R).
   * **GC Content:** 55%.
-* **Expected PCR Product:** 156 bp.
+* **Expected Amplicon Size:** 156 bp.
+
 <br>
 
 ### 6. Verification
@@ -50,7 +54,7 @@ I checked my primers again using NCBI Primer-BLAST. The results showed that thes
 ### 7. Building the Phylogenetic Tree
 To see the evolutionary connections, I made a tree using the aligned COX1 sequences.
 * **Software:** MEGA12.
-* **Method:** Neighbor-Joining (NJ).
+* **Method:** Neighbor-Joining.
 * **Model:** Kimura 2-parameter (K2P).
 * **Test:** 1000 bootstrap replicates to make sure the tree is strong.
 
@@ -60,8 +64,9 @@ To see the evolutionary connections, I made a tree using the aligned COX1 sequen
 
 ![Phylogenetic Tree](../images/tree_final.jpg)
 
-### 8. Interpretation of the Tree
-Looking at the tree, I can see a few interesting things:
+
+### 8.Interpretation of the phylogenetic Tree
+Looking at the phylogenetic tree, I can draw the following conclusions:
 * **Clustering:** As I expected, *Stylophora pistillata* is very close to *Seriatopora sp.* They belong to the same family (Pocilloporidae), and the tree shows this clearly.
-* **Other Groups:** The other corals like *Tubastraea* and *Porites* are on different branches, which makes sense because they are more distantly related.
-* **Bootstrap Values:** The high numbers at the branches show that my results are statistically reliable.
+* **Other Groups:** The species *Tubastraea coccinea*, *Tubastraea sp.*, and *Porites lutea* are on different branches, which makes sense because they are more distantly related to *Stylophora*.
+* **Tree Reliability:** To ensure the results are strong, I used 1000 bootstrap replicates in MEGA12. This confirms that the connections I see in the tree are statistically reliable.
