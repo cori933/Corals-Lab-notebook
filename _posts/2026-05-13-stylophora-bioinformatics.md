@@ -65,7 +65,7 @@ To see the evolutionary connections, I made a tree using the aligned COX1 sequen
 ![Phylogenetic Tree](../images/tree_final.jpg)
 
 
-### 8.Interpretation of the phylogenetic Tree
+### 8. Interpretation of the Phylogenetic Tree
 Looking at the phylogenetic tree, I can draw the following conclusions:
 * **Clustering:** As I expected, *Stylophora pistillata* is very close to *Seriatopora sp.* They belong to the same family (Pocilloporidae), and the tree shows this clearly.
 * **Other Groups:** The species *Tubastraea coccinea*, *Tubastraea sp.*, and *Porites lutea* are on different branches, which makes sense because they are more distantly related to *Stylophora*.
