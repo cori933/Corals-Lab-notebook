@@ -46,6 +46,8 @@ I used the alignment to find the best flanking regions for my primers. I wanted 
 ### 6. Verification
 I checked my primers again using NCBI Primer-BLAST. The results showed that these primers are specific to *Stylophora* and should not amplify other organisms by mistake.
 
+<br>
+
 ### 7. Building the Phylogenetic Tree
 To see the evolutionary connections, I made a tree using the aligned COX1 sequences.
 * **Software:** MEGA12.
@@ -55,7 +57,8 @@ To see the evolutionary connections, I made a tree using the aligned COX1 sequen
 
 <br>
 
-**My Final Tree:**
+**Final Phylogenetic Tree:**
+
 ![Phylogenetic Tree](../images/tree_final.jpg)
 
 ### 8. Interpretation of the Tree
