@@ -1,16 +1,9 @@
----
-layout: page
-title: About
-permalink: /about/
----
 
-<center>
+---
 
 # Coral Rozen
 ### M.Sc. Researcher in Marine Biology
 **IORL (Israel Oceanographic and Limnological Research) | University of Haifa**
-
-</center>
 
 ---
 
@@ -18,7 +11,9 @@ I am an M.Sc. student in Marine Biology at the University of Haifa, conducting m
 
 My work focuses on the cellular biology of scleractinian corals, specifically establishing primary tissue cultures and investigating the molecular mechanisms of cellular regeneration in *Stylophora pistillata*. I combine a deep passion for marine science with a rigorous clinical and laboratory background, bringing precision and high-level analytical skills to ecological and biological research.
 
-### 📬 Contact & Connect
+---
+
+### Contact & Connect
 * **Email:** [CoralRozen3@gmail.com](mailto:CoralRozen3@gmail.com)
 * **GitHub:** [github.com/cori933](https://github.com/cori933)
 
@@ -26,13 +21,13 @@ My work focuses on the cellular biology of scleractinian corals, specifically es
 
 ### EDUCATION
 
-* **M.Sc. in Marine Biology (2026 – Present)** *University of Haifa & IORL*
+* **M.Sc. in Marine Biology (2026 – Present)** | *University of Haifa & IORL*
   * Specializing in coral tissue cultures, cell dissociation, and regeneration mechanisms under the supervision of Prof. Buki Rinkevich.
 
-* **Pre-Clinical Medical Studies (2022 – 2024)**     *University of Szeged, Hungary*
+* **Pre-Clinical Medical Studies (2022 – 2024)** | *University of Szeged, Hungary*
   * Completed Year 1 & 2 medical curriculum with a strong academic focus on Immunology, Anatomy, and Human Physiology (Returned to Israel in 2025).
 
-* **B.Sc. in Biology (2017 – 2021)** *Oranim College (University of Haifa)*
+* **B.Sc. in Biology (2017 – 2021)** | *Oranim College (University of Haifa)*
   * **4-Year Undergraduate Program**, Graduated with Honors.
   * **Global Research (2020):** Selected for a specialized 2-week biological and ecological field study expedition to Ethiopia, focusing on diverse ecosystems and behavioral ecology.
 
@@ -48,22 +43,20 @@ My work focuses on the cellular biology of scleractinian corals, specifically es
   * Executed complex microbiological assays and quality control testing.
   * Managed sterile laboratory protocols, strict documentation, and compliance with high-standard laboratory regulations.
 
-* **Ecological Research Assistant | Oranim College (2019-2021)**
+* **Ecological Research Assistant | Oranim College (2019 - 2021)**
   * Conducted field monitoring and behavioral data collection for academic ecological research.
   * Assisted in analyzing animal behavior and documenting environmental variables.
 
 * **Veterinary Assistant | HaCarmel Veterinary Clinic (2017 – 2019)**
   * Provided critical clinical and surgical assistance to senior veterinarians.
   * Managed internal diagnostic laboratory operations, including blood work and sample preparation.
-
----
+  ---
 
 ### MILITARY SERVICE
 
-* **Combat Medic | IDF Marine Special Forces - Shayetet 13
-(2012 – 2015)**
+* **Combat Medic | IDF Marine Special Forces - Shayetet 13 (2012 – 2015)**
   * **Reserve Service (2014 – 2015):** Recalled for active duty during *Operation Protective Edge*, providing critical medical support.
-  * **Regular Service (2012 – 2014):** Responsible for emergency medical response, clinical management, and triage in high-stress, dynamic environments within an elite naval commando unit.
+  * **Regular Service (2012 – 2014):** Responsible for emergency medical response, clinical management, and triage in high-stress, dynamic environments within an elite naval commando unit.  
 
 ---
 
@@ -77,13 +70,13 @@ My work focuses on the cellular biology of scleractinian corals, specifically es
 * **Animal Welfare Volunteer | Tza’ar Ba’alei Chayim (2008 – 2010)**
   * Dedicated two years to animal rescue, shelter maintenance, and rehabilitation of abandoned animals.
 
-* **Humanitarian Aid Volunteer | "Latet" Organization**
+* **Humanitarian Aid Volunteer | "Latet" Organization (2008-2012)**
   * Assisted in national logistical operations, food drives, and aid distribution for populations in need.
 
-* **Youth Counselor | Israeli Scouts (Tzofim)**
+* **Youth Counselor | Israeli Scouts (Tzofim) (2008-2012)**
   * Led educational programs, organized outdoor field activities, and mentored youth groups, developing strong leadership and group-management skills.
 
-* **Ecological Guide | Oranim College Ecological Park**
+* **Ecological Guide | Oranim College Ecological Park (2018-2020)**
   * Delivered educational lectures and guided tours regarding animal behavior, biology, and local ecology to diverse visiting groups.
 
 ---
