@@ -24,18 +24,24 @@ I aligned these five sequences to find the best spots for my primers and to see 
 * **Software:** MEGA12 (using the ClustalW tool).
 * **What I found:** In the alignment, I saw very stable (conserved) regions where all species were identical. I also found variable spots (SNPs) that are unique to the *Stylophora* and *Seriatopora* group.
 
-**My Alignment Result:**
-![Sequence Alignment](../images/alignment_1.jpg)
+<br>
 
-### 5. Designing the Primers
+**My Alignment Result:**
+
+<img src="../images/alignment_1.jpg" alt="Multiple Sequence Alignment" style="width: 100%; max-width: none; display: block;">
+
+<br>
+
+### 5. Primers Design
 I used the alignment to find the best flanking regions for my primers. I wanted to make sure they are specific to my target.
 * **Software:** NCBI Primer-BLAST.
 * **Forward Primer:** GATATGGCGTTTCCCCGACT
 * **Reverse Primer:** CGAACCTCCAGAGTGTGCTT
 * **Primer Details:**  Length: 20 bp each.
-  * Melting Temperature (Tm): Around 60°C.
-  * GC Content: 55%.
+ * **Melting Temperature (Tm):** 59.89°C (Forward) | 59.97°C (Reverse)
+  * **GC Content:** 55%.
 * **Expected PCR Product:** 156 bp.
+<br>
 
 ### 6. Verification
 I checked my primers again using NCBI Primer-BLAST. The results showed that these primers are specific to *Stylophora* and should not amplify other organisms by mistake.
@@ -46,6 +52,8 @@ To see the evolutionary connections, I made a tree using the aligned COX1 sequen
 * **Method:** Neighbor-Joining (NJ).
 * **Model:** Kimura 2-parameter (K2P).
 * **Test:** 1000 bootstrap replicates to make sure the tree is strong.
+
+<br>
 
 **My Final Tree:**
 ![Phylogenetic Tree](../images/tree_final.jpg)
