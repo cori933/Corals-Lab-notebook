@@ -29,6 +29,7 @@ I aligned the five COX1 sequences to see where the DNA is the same and where it 
 <br>
 
 **My Alignment Result:**
+
 <img src="../images/alignment_1.jpg" alt="Multiple Sequence Alignment" style="width: 100%; max-width: none; display: block;">
 <br>
 
@@ -62,11 +63,12 @@ To see the evolutionary connections, I made a tree using the aligned COX1 sequen
 
 **Final Phylogenetic Tree:**
 
-![Phylogenetic Tree](../images/tree_final.jpg)
+![Phylogenetic Tree](../images/tree_final.jpg.png)
+
 
 
 ### 8. Interpretation of the Phylogenetic Tree
-Looking at the phylogenetic tree, I can draw the following conclusions:
-* **Clustering:** As I expected, *Stylophora pistillata* is very close to *Seriatopora sp.* They belong to the same family (Pocilloporidae), and the tree shows this clearly.
-* **Other Groups:** The species *Tubastraea coccinea*, *Tubastraea sp.*, and *Porites lutea* are on different branches, which makes sense because they are more distantly related to *Stylophora*.
-* **Tree Reliability:** To ensure the results are strong, I used 1000 bootstrap replicates in MEGA12. This confirms that the connections I see in the tree are statistically reliable.
+Based on the tree results, here are my main conclusions:
+* **Species Grouping:** As expected, *Stylophora pistillata* is grouped closely with *Seriatopora sp.*. Since they both belong to the Pocilloporidae family, this result makes perfect biological sense. The bootstrap value of 100 shows that this connection is very strong.
+* **Other Clades:** The species *Tubastraea coccinea*, *Tubastraea sp.*, and *Porites lutea* are located on separate branches. The bootstrap value of 69 for this group shows they are related to each other but are evolutionarily distinct from the Pocilloporidae family.
+* **Analysis Reliability:** I ran 1000 bootstrap replicates in MEGA12 to test the tree’s accuracy. These numbers on the main branches represent how consistently the genetic patterns in the DNA sequences confirm the evolutionary groupings shown in the tree
