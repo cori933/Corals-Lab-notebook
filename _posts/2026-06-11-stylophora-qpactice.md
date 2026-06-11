@@ -61,26 +61,35 @@ The mathematical framework is based on the **$\Delta\Delta C_t$ Method** (Livak 
 
 ### Step-by-Step Calculation Example
 
-Below is the analysis utilizing representative laboratory dataset generated from *Stylophora pistillata* cDNA samples (Control vs. Heat Stress).
+Below is the experimental dataset generated from *Stylophora pistillata* cDNA samples (Control vs. Heat Stress) and the step-by-step pipeline execution.
 
-#### 1. Raw Data
-* **Control (25°C) - Rep 1:** Ct Target (HSP70) = 24.2, Ct Reference ($\beta$-actin) = 18.1
-* **Control (25°C) - Rep 2:** Ct Target (HSP70) = 24.4, Ct Reference ($\beta$-actin) = 18.3
-* **Heat Stress (32°C) - Rep 1:** Ct Target (HSP70) = 20.1, Ct Reference ($\beta$-actin) = 18.2
-* **Heat Stress (32°C) - Rep 2:** Ct Target (HSP70) = 19.9, Ct Reference ($\beta$-actin) = 18.0
+#### 1. Raw Data Analysis
 
-#### 2. Computing $\Delta C_t$
-* **Control Rep 1:** $24.2 - 18.1 = 6.1$
-* **Control Rep 2:** $24.4 - 18.3 = 6.1$
-* **Average $\Delta C_{t,\text{Control}}$:** $6.1$
+| Experimental Group | Replicate | $C_t$ Target (HSP70) | $C_t$ Reference ($\beta$-actin) | $\Delta C_t$ ($C_{t,\text{Target}} - C_{t,\text{Ref}}$) | Mean $\Delta C_t$ |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| **Control (25°C)** | Rep 1 | 24.2 | 18.1 | 6.1 | |
+| **Control (25°C)** | Rep 2 | 24.4 | 18.3 | 6.1 | **6.1** |
+| **Heat Stress (32°C)** | Rep 1 | 20.1 | 18.2 | 1.9 | |
+| **Heat Stress (32°C)** | Rep 2 | 19.9 | 18.0 | 1.9 | **1.9** |
 
-* **Heat Stress Rep 1:** $20.1 - 18.2 = 1.9$
-* **Heat Stress Rep 2:** $19.9 - 18.0 = 1.9$
-* **Average $\Delta C_{t,\text{Treated}}$:** $1.9$
+#### 2. Computing $\Delta\Delta C_t$ and Fold Change
 
-#### 3. Computing $\Delta\Delta C_t$ and Fold Change
+Using the mean values calculated in the dataset above:
+
+$$\Delta\Delta C_t = \Delta C_{t,\text{Treated}} - \Delta C_{t,\text{Control}}$$
 $$\Delta\Delta C_t = 1.9 - 6.1 = -4.2$$
-$$\text{Fold Change} = 2^{-(-4.2)} = 2^{4.2} \approx 18.38$$
+
+$$\text{Fold Change} = 2^{-\Delta\Delta C_t} = 2^{-(-4.2)} = 2^{4.2} \approx 18.38$$
+
+---
+
+### Summary of Hypothesized qPCR Outcomes
+
+| Gene Symbol | Functional Category | Expected Response (25°C $\rightarrow$ 32°C) | Primary Cellular Rationale |
+| :--- | :--- | :--- | :--- |
+| **`$\beta$-actin`** | Housekeeping Reference | **Stable Baseline** (No Change) | Structural actin maintains constitutive expression under brief environmental anomalies. |
+| **`HSP70`** | Molecular Chaperone | **Significant Upregulation** | Transcriptional activation is triggered to fold denaturing proteins and combat heat damage. |
+| **`COX1`** | Mitochondrial Respiration | **Downregulation / Suppression** | Severe prolonged heat damages mitochondrial integrity, suppressing target metabolic transcription. |
 
 ---
 
