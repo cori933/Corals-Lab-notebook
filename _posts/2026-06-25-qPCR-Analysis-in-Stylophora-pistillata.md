@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "qPCR Analysis and Validation in Stylophora pistillata"
+title: "qPCR Analysis in Stylophora pistillata"
 date: 2026-06-25
 ---
 ## Introduction
