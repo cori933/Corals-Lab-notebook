@@ -3,6 +3,8 @@ layout: post
 title: "Photophysiological Analysis and Microhabitat Acclimation of Marine Macroalgae"
 date: 2026-06-25
 ---
+<br>
+
 # Photophysiological Analysis and Microhabitat Acclimation of Marine Macroalgae
 
 ## 1. Introduction
