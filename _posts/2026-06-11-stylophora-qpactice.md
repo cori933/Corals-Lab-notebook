@@ -1,10 +1,3 @@
----
-layout: post
-title: "qPCR Target Selection and Relative Quantification in Stylophora pistillata"
-date: 2026-06-11
-categories: stylophora-bioinformatics
----
-
 # qPCR Assignment: Gene Selection and Relative Quantification
 
 ## Part 1: qPCR Gene Selection and Justification
