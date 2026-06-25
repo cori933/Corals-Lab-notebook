@@ -1,4 +1,8 @@
-# Photophysiological Analysis and Microhabitat Acclimation of Marine Macroalgae
+---
+layout: post
+title: "Photophysiological Analysis and Microhabitat Acclimation of Marine Macroalgae"
+date: 2026-06-25
+---
 
 ## 1. Introduction
 Marine macroalgae are important primary producers in coastal rocky shore ecosystems. In the intertidal zone, algae can grow in very different light conditions: some are exposed to direct sunlight, while others grow in shaded places such as crevices or under rocks. Since photosynthesis depends strongly on light, algae from these different microhabitats may show different photosynthetic responses.
