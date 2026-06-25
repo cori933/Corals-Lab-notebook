@@ -1,14 +1,11 @@
-
 ---
 layout: post
 title: "Photophysiological Analysis and Microhabitat Acclimation of Marine Macroalgae"
 date: 2026-06-25
 ---
-
 # Photophysiological Analysis and Microhabitat Acclimation of Marine Macroalgae
 
 ## 1. Introduction
-
 Marine macroalgae are important primary producers in coastal rocky shore ecosystems. In the intertidal zone, algae can grow in very different light conditions: some are exposed to direct sunlight, while others grow in shaded places such as crevices or under rocks. Since photosynthesis depends strongly on light, algae from these different microhabitats may show different photosynthetic responses.
 
 In this project, we compared macroalgae collected from light‑exposed and shaded microhabitats at Sdot Yam. Photosynthetic performance was measured using Pulse‑Amplitude‑Modulation (PAM) fluorometry across increasing light intensities (photosynthetically active radiation, PAR). From the electron transport rate (ETR) response curves, four main parameters were extracted: the maximum ETR (Am), apparent quantum yield (AQY), dark respiration (Rd) and the light‑saturation parameter (Ik, calculated as Am/AQY). The aim of the analysis was to describe possible differences between the Light and Dark groups using the extracted parameters, summary tables and graphs.
