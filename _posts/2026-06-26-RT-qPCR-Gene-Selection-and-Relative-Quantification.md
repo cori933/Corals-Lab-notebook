@@ -161,7 +161,7 @@ Raw Ct values can't be compared alone because different samples can have slightl
 
 In order to correct this, the target gene is normalized to a reference gene.
 
-In the class dataset, the reference gene was **Tubulin**.
+In the class dataset, the reference gene was Tubulin.
 
 ---
 
@@ -169,9 +169,10 @@ In the class dataset, the reference gene was **Tubulin**.
 
 The formula is:
 
-`ΔCt = Ct(target gene) - Ct(reference gene)`
+<p align="center"><b>ΔCt = Ct(target gene) - Ct(reference gene)</b></p>
+<br>
 
-ΔCt → represent's the expression of the target gene after correcting for the reference gene.
+ΔCt → represents the expression of the target gene after correcting for the reference gene.
 
 ---
 
@@ -179,7 +180,8 @@ The formula is:
 
 The formula is:
 
-`ΔΔCt = ΔCt(treatment) - ΔCt(control)`
+<p align="center"><b>ΔΔCt = ΔCt(treatment) - ΔCt(control)</b></p>
+<br>
 
 In this class dataset, the comparison is:
 
@@ -193,7 +195,8 @@ The DMSO control is the calibrator group.
 
 The formula is:
 
-`Fold Change = 2^(-ΔΔCt)`
+
+<p align="center"><b>Fold Change = 2<sup>-ΔΔCt</sup></b></p>
 
 This converts the Ct difference into relative expression.
 
@@ -208,7 +211,6 @@ If fold change < 1 → the gene is downregulated in the treatment.
 ## Example calculation: NGN
 
 For NGN:
-
 
 | Step | Value |
 |---|---:|
