@@ -211,6 +211,7 @@ If fold change < 1 → the gene is downregulated in the treatment.
 
 For NGN:
 
+
 | Step | Value |
 |---|---:|
 | Ct NGN control | 28.351 |
