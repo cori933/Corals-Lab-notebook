@@ -78,11 +78,14 @@ $$Fold Change = 2^{-\Delta\Delta C_t}$$
 
 ### Results
 
+<div align="center">
+
 | Experimental Group | Target (HSP70) | Reference (Beta-actin) | ΔCₜ |
 | --- | --- | --- | --- |
 | Control (25°C) | 24.3 | 18.2 | 6.1 |
 | Heat Stress (32°C) | 20.0 | 18.1 | 1.9 |
-|  |  |  |  |
+
+</div>
 
 <br>
 <br>
@@ -90,29 +93,20 @@ $$Fold Change = 2^{-\Delta\Delta C_t}$$
 
 **Detailed Calculations:**
 
-<div align="center">
+
 
 ΔCt (Control) = 24.3 - 18.2 = 6.1
 
-</div>
-
-<div align="center">
 
 ΔCt (Heat Stress) = 20.0 - 18.1 = 1.9
 
-</div>
-
-<div align="center">
 
 ΔΔCt = 1.9 - 6.1 = -4.2
 
-</div>
-
-<div align="center">
 
 **Fold Change** = $2^{-(-4.2)}$ = **18.38**
 
-</div>
+
 
 
 
