@@ -141,9 +141,6 @@ However, I would still validate Beta-actin before trusting the final results. A 
 <br>
 <br>
 <br>
-<br>
-
-
 
 
 # Part 2: Interpreting RT-qPCR data using the ΔΔCt method
@@ -266,16 +263,17 @@ Because the fold change is about 2.00, NGN expression was approximately doubled 
 The final graph shows the fold change values for each gene in the inhibitor treatment compared with the DMSO control.
 The control is always set to 1 because it is the calibrator.
 
-The strongest increase was seen in **NGN**, with a fold change of about 2.00. This means NGN expression was approximately twice as high in the inhibitor treatment compared with the DMSO control.
+The strongest increase was seen in NGN, with a fold change of about 2.00. This means NGN expression was approximately twice as high in the inhibitor treatment compared with the DMSO control.
 
-Other genes that increased were **soxC**, **foxA**, **ascs**, and **Delta**.
+Other genes that increased were soxC, foxA, ascs, and Delta.
 
-The strongest decrease was seen in **pitx**, with a fold change of about 0.24. This means pitx expression was much lower in the inhibitor treatment compared with the control.
+The strongest decrease was seen in pitx, with a fold change of about 0.24. This means pitx expression was much lower in the inhibitor treatment compared with the control.
 
-Other downregulated genes were **sm50**, **SM30**, and **opt**.
+Other downregulated genes were sm50, SM30, and opt.
 
-Genes like **synB**, **pak3**, and **gcm** were close to 1, so they did not show a strong change in this dataset.
+Genes like synB, pak3, and gcm were close to 1, so they did not show a strong change in this dataset.
 
+<br>
 
 ---
 
