@@ -62,6 +62,8 @@ Thermal stress directly affects protein stability. Because HSP70 is connected to
 
 ## Target gene 2: Mn-SOD / SOD2
 
+
+
 ### Why I chose this gene
 
 I chose Mn-SOD because heat stress is not only a protein-stability problem. It can also create oxidative stress. In corals, elevated temperature can disturb the normal balance between the coral host and its symbiotic algae, and this can increase the production of reactive oxygen species.
@@ -168,7 +170,7 @@ In the class dataset, the reference gene was **Tubulin**.
 
 ---
 
-## Step 1: Calculate Delta Ct
+## Step 1: Calculate ΔCt
 
 The formula is:
 
@@ -222,11 +224,13 @@ For NGN:
 | Delta Ct treatment | 4.057 |
 | Delta Delta Ct | -0.998 |
 | Fold change | 2.00 |
+<br>
 
 Because the fold change is about 2.00, NGN expression was approximately doubled in the inhibitor treatment compared with the DMSO control.
+<br>
+<br>
 
 ---
-
 ## Class dataset results
 
 | Gene | ΔCt(Control) | ΔCt(Treatment) |   ΔΔCt   | Fold Change |
@@ -247,10 +251,13 @@ Because the fold change is about 2.00, NGN expression was approximately doubled 
 | synB | 0.831 | 0.764 | -0.067 | 1.05 |
 
 ---
+<br>
 
 ## Final graph
 
-<img src="images/qPCR_fold_change_class_data.png" alt="Fold Change graph" width="900">
+<div align="center">
+  <img src="https://github.com/cori933/Corals-Lab-notebook/blob/main/images/qPCR_fold_change_class_data.png?raw=true" alt="Fold Change Graph" width="600">
+</div>
 
 <br>
 
