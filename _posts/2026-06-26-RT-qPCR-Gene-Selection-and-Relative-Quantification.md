@@ -4,9 +4,6 @@ title: "RT-qPCR Gene Selection and Relative Quantification"
 date: 2026-06-26
 categories: [RT-qPCR, gene-expression, Stylophora-pistillata]
 ---
-
-# RT-qPCR Assignment: Gene Selection and Relative Quantification
-
 ## Part 1: Proposed RT-qPCR experiment in *Stylophora pistillata*
 
 ### Why I chose this topic
