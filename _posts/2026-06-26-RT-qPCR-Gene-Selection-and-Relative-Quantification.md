@@ -27,6 +27,7 @@ My planned comparison is:
 |---|---|
 | Control | 25°C |
 | Heat stress | 32°C for 24 hours |
+
 <br>
 
 The idea is to compare coral samples (*Stylophora pistillata*) kept under normal temperature with coral samples exposed to elevated temperature. After the treatment, I would extract total RNA from the coral tissue, convert the RNA (using Reverse transcriptase) into cDNA, and then quantify gene expression using RT-qPCR. 
@@ -222,6 +223,7 @@ For NGN:
 | Delta Ct treatment | 4.057 |
 | Delta Delta Ct | -0.998 |
 | Fold change | 2.00 |
+
 <br>
 
 Because the fold change is about 2.00, NGN expression was approximately doubled in the inhibitor treatment compared with the DMSO control.
